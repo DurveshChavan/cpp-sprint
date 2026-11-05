@@ -1,0 +1,19 @@
+ARCHITECTURE.md
+push-day.sh
+# push-day: managed block
+*:Zone.Identifier
+*.zip
+node_modules/
+D-*/Programs/**
+!D-*/Programs/**/
+!D-*/Programs/**/*.cpp
+!D-*/Programs/**/*.h
+!D-*/Programs/**/*.hpp
+!D-*/Programs/**/*.js
+!D-*/Programs/**/*.json
+!D-*/Programs/**/*.py
+!D-*/Programs/**/*.java
+!D-*/Programs/**/*.sql
+!D-*/Programs/**/*.sh
+!D-*/Programs/**/*.md
+!D-*/Programs/**/*.txt

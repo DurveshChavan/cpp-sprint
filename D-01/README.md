@@ -1,32 +1,52 @@
 # Day 1: Set up, then write your first real programs
 
-- Date: Monday 19 October 2026
-- Focus: Programming fundamentals, Git, Linux
-- Done: 7 of 9 items, 2 brushed up
+| Date | Focus | Done |
+|---|---|---|
+| Monday 19 October 2026 | Programming fundamentals, Git, Linux | 9 of 9 tasks, 2 brushed up |
 
-## Today I learned
+## Programs
+
+<!-- programs:start -->
+- [celsius-to-fahrenheit.cpp](Programs/celsius-to-fahrenheit.cpp): compiles
+- [hello.cpp](Programs/hello.cpp): compiles
+- [mathematical-operations.cpp](Programs/mathematical-operations.cpp): compiles
+- [name_age.cpp](Programs/name_age.cpp): compiles
+- [print_name_n_age.cpp](Programs/print_name_n_age.cpp): compiles
+- [temp.cpp](Programs/temp.cpp): compiles
+- [unused_variable.cpp](Programs/unused_variable.cpp): compiles
+<!-- programs:end -->
+
+## In my own words
+
+**Today I learned**
 
 Today I learned to install Ubuntu with WSL (Windows subsystem for Linux). That let me use linux commands in windows. Now I am able to do programs in ubuntu. I did a hello.cpp program that helped me learn basics of setsup of a language in system and its basic syntax
 
-## Today I did
+**Today I did**
 
 Today I did WSL setup and VS code setup in it. I wrote code related to std::cout and std::cin. I used statuc_cast<double> to convert int in double for division operation over two int variable
 
-## Today I built
+**Today I built**
 
 Today I built 4 different cpp file that reads user name and age then prints it. another converted celsius to fahrenheit, another did mathematical operations on 2 number inputted by user.
 
-## What broke, and how I fixed it
+**What broke, and how I fixed it**
 
 What broke: WSL set up in the vs code. I Fixed it by closing all instance of wsl and vs code running. Then I opened vs code in windows enabled wsl extension. then moved to wsl and in directory ~/cpp-sprint ran command `code .` which fixed the problem
 
 ## Proof
 
-![Screenshot 1](images/day-01-1.jpg)
+**Screenshot 1**
 
-![Screenshot 2](images/day-01-2.jpg)
+![Screenshot 1](images/01-1.jpg)
 
-![Screenshot 3](images/day-01-3.jpg)
+**Screenshot 2**
+
+![Screenshot 2](images/01-2.jpg)
+
+**Screenshot 3**
+
+![Screenshot 3](images/01-3.jpg)
 
 ## Checklist
 
